@@ -1,12 +1,12 @@
-title: Global AppSec San Francisco 2024
+title: AppSec Days Singapore 2024
 pricing-title: Pricing
-dates: September 23-27
-training: September 23-25
-conference: September 26-27
+dates: October 1-2, 2024
+training: October 1, 2024
+conference: October 2, 2024
 registration_url: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
 logo_url: https://owasp.org/
-venue: Hyatt Regency San Francisco
-location: 5 Embarcadero Center, San Francisco, CA 94111, USA
+venue: Marina Bay Sands Singapore
+location: 10 Bayfront Avenue, Singapore 018956
 background: SFHeader.png
 background-style: 'linear-gradient(to right, #fff 50%, #84282b 50%)'
 background-padding: 0em 2em 0em 2em
@@ -17,13 +17,5 @@ registration_open: true
 pitch: >-
     **THE MUST ATTEND EVENT FOR CYBERSECURITY PROFESSIONALS**<br>
     <br>
-    This year we are doing things a little differently....<br>
-    <br>
-    OWASP is pleased to invite you to our Global AppSec US Conference.  This year we will have MORE networking opportunities, a NEW track for mentorship, NEW sponsorship opportunities, AND unveiling our newest extension of the conference, Developer Day on September 28th where you can come hear the pain of others and share yours while looking for solutions!<br>
-    <br>
-    Join us for the newly designed OWASP Global AppSec US Conference alongside 1200+ cybersecurity experts from September 23-28 at the Hyatt Regency San Francisco in San Francisco, CA. <br>
-    <br>
-    Immerse yourself in thought-provoking presentations by globally renowned keynote speakers, choose from our diverse array of five tracks ranging in focus from OWASP Projects to tracks aimed at your particular field of interest such as builder/developer, breaker, defender, and manager-culture. Other opportunities include exploring the exhibitor hall, participating in the Meet the Mentor Program, and fostering connections with fellow security professionals either at the event or at one of our various networking receptions.<br>
-    <br>
-    As an added bonus, you can level up on your education by taking advantage of one of our SEVEN hands on training options*, available for one, two, and three days from September 23-25. *Training and conference require two separate ticket purchases.<br>
+    Join us for the 2024 OWASP AppSec Days Singapore at Marina Bay Sands hotel. Designed for private and public sector infosec professionals, OWASP conference equips developers, defenders, and advocates to build a more secure web.  We are offering four educational **1-day training courses on 01-October that requires a separate ticket purchase followed by the conference and exhibition on 02-October.  Join us for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Conference. With amazing speakers and networking opportunities, this is an event you will not want to miss.<br>
 image_attribution: Hugo Costa
