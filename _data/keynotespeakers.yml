@@ -6,16 +6,9 @@
         Vivek discovered the Caffe Latte attack, broke WEP Cloaking, conceptualized enterprise Wi-Fi Backdoors, and created Chellam (Wi-Fi Firewall), WiMonitor Enterprise (802.11ac monitoring), Chigula (Wi-Fi traffic analysis via SQL), Deceptacon (IoT Honeypots), among others. He is the author of multiple five-star-rated books in offensive cybersecurity, which have sold thousands of copies worldwide and have been translated into multiple languages.
         He has been a speaker/trainer at top security conferences such as Blackhat USA, Europe and Abu Dhabi, DEFCON, Nullcon, Brucon, HITB, Hacktivity, and others. Vivek’s work in cybersecurity has been covered in Forbes, TechCrunch, and other popular media outlets.
         In a past life, he was one of the programmers of the 802.1x protocol and Port Security in Cisco’s 6500 Catalyst series of switches. He was also one of the winners of the Microsoft Security Shootout contest held in India among a reported 65,000 participants. He has also published multiple research papers in the field of DDoS, ARP Spoofing Detection, and Anomaly-based Intrusion Detection Systems. In 2021, he was awarded an honorary title of Regional Director of Cybersecurity by Microsoft for a period of three years, and in 2024 he joined the BlackHat Arsenal Review Board.
-#  subject: 
-#   abstract: >-
-        Have you ever wondered how hackers think? Do you know what things most companies get wrong when trying to secure their apps? Do you know what to do instead?
-        In this keynote, you'll hear stories from the front lines of ethical hacking. Led by Ted Harrington -- #1 bestselling author of Hackable, co-founder of IoT Village, and a leader of ethical hackers -- you'll learn how to build better, more secure systems, including:
-        <ul>
-         <li>what it means to think like a hacker (and how to apply those principles)</li>
-         <li>the most common misconceptions and mistakes that people make in application security</li>
-         <li>what to do instead</li>
-        </ul>
-        You'll hear fun stories that vividly illustrate and explain the points, and learn what to do about it. Ted will be available for a book signing afterwards, too!
+  subject: TBD   
+  abstract: >-
+        TBD
 # - image: jason_headshot.jpg
 #   name: Jason Haddix
 #  title: 
