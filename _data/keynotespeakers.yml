@@ -9,11 +9,16 @@
   subject: TBD   
   abstract: >-
         TBD
-# - image: jason_headshot.jpg
-#   name: Jason Haddix
-#  title: 
-#   bio: >- 
-#        Jason Haddix AKA jhaddix is the CEO and “Hacker in Charge” at Arcanum Information Security. Arcanum is a world class assessment and training company. Jason has had a distinguished 20-year career in cybersecurity previously serving as CISO of Buddobot, CISO of Ubisoft, Head of Trust/Security/Operations at Bugcrowd, Director of Penetration Testing at HP, and Lead Penetration Tester at Redspin. He has also held positions doing mobile penetration testing, network/infrastructure security assessments, and static analysis. Jason is a hacker, bug hunter and currently ranked 57th all-time on Bugcrowd’s bug bounty leaderboards. Currently, he specializes in recon, web application analysis, and emerging technologies. Jason has also authored many talks on offensive security methodology, including speaking at cons such as DEFCON, Bsides, BlackHat, RSA, OWASP, Nullcon, SANS, IANS, BruCon, Toorcon and many more.
-#   subject: 
-#   abstract: >-
+- image: emiltanprofile.png
+  name: Emil Tan
+  title: Future as Code -Hackers, Community, and the Fabric of Our Digital World  
+  bio: >- 
+        Emil Tan is currently serving the role of Cyber Strategist and Market Lead in Critical Infrastructure at Booz Allen Hamilton. He is also the Chief Community Officer (CCO) at Red Alpha Cybersecurity, a leading cybersecurity talent development company, and the Chair of the CREST Asia Council.
+        With over 10 years of experience in the cybersecurity industry, Emil has expertise across various cybersecurity trades, including R&D, cybersecurity operations, governance, policy and regulations, consultancy, and ecosystem development. 
+        Emil is an active contributor to the cybersecurity ecosystem in Singapore. He plays an active role in catalysing cybersecurity conversations and thought leadership both locally and internationally. He founded Division Zero (Div0), Singapore’s largest techno-centric cybersecurity community group, and Infosec In the City, SINCON, Singapore’s international techno-centric cybersecurity conference.
+        He also leads The Honeynet Project, Singapore Chapter, a non-profit cybersecurity R&D institution, and serves on the Executive Committees of the Singapore Computer Society (SCS) Cybersecurity Chapter and the Association of Information Security Professionals (AiSP).
+        In recognition of his significant contributions, Emil was awarded the inaugural Cybersecurity Awards (Professional Category) in 2018 by the Cyber Security Agency of Singapore (CSA) and received a Special Recognition Award in 2023 from the Ministry of Communications and Information (MCI). He was also listed amongst Tatler's 2024 Gen.T Leaders of Tomorrow.
+  subject: TBD   
+  abstract: >-
+        TBD
         
