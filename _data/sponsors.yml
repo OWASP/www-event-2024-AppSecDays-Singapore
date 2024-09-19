@@ -1,5 +1,10 @@
- #- logo: /assets/images/sponsors/AppSentinels.jpg
- #  name: AppSentinels
- #  url: https://appsentinels.ai/
- #  backgroundSize: 125px
- # type: Start-up
+ - logo: /assets/images/sponsors/Appdome.png
+   name: Appdome
+   url: https://www.appdome.com/
+   backgroundSize: 125px
+   type: Gold
+ - logo: /assets/images/sponsors/ContrastNew_Logo_RGB.png
+   name: Contrast Security
+   url: https://www.contrastsecurity.com/
+   backgroundSize: 125px
+   type: Lanyard
