@@ -8,3 +8,8 @@
    url: https://www.contrastsecurity.com/
    backgroundSize: 125px
    type: Lanyard
+ - logo: /assets/images/sponsors/Dexian.webp
+   name: Dexian
+   url: https://dexian.com/
+   backgroundSize: 125px
+   type: Capture the Flag & Post-Event Speakers Reception
